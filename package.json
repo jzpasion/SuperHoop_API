@@ -1,0 +1,20 @@
+{
+  "name": "superhoop_api",
+  "version": "1.0.0",
+  "description": "SuperPark Superhoop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzpasion/SuperHoop_API.git"
+  },
+  "author": "Zyrel Pasion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzpasion/SuperHoop_API/issues"
+  },
+  "homepage": "https://github.com/jzpasion/SuperHoop_API#readme"
+}
